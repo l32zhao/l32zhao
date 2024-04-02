@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/l32zhao#gh-dark-mode-only">
-  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=l32zhao&show_icons=true&hide_border=true&include_all_commits=true&disable_animations=true&theme=calm#gh-dark-mode-only">
+  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=l32zhao&show_icons=true&hide_border=true&include_all_commits=false&disable_animations=false&theme=calm#gh-dark-mode-only">
 </a>
 
 
@@ -28,7 +28,7 @@ I’m a MEng Computer Engineering student at **University of Waterloo**, special
 
 <!-- Links -->
 [Linkedin]: https://www.linkedin.com/in/luchen-zhao/
-[e-mail]: lucian.zhao@outlook.com
+[e-mail]: l32zhao@uwaterloo.ca
 
 <!-- Skills -->
 
