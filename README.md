@@ -15,7 +15,7 @@ I’m a MEng Computer Engineering student at **University of Waterloo**, special
 
 ### :microscope: Skills
 
-![skillicons](https://skillicons.dev/icons?i=java,py,c,cpp,go,bash,html,css,js,ts,nodejs,mysql,redis,mongodb,sqlite,postgres,vue,react,django,nginx,spring,git,maven,gradle,docker,linux,github,gitlab,heroku,aws)
+![skillicons](https://skillicons.dev/icons?i=java,go,cpp,c,py,bash,html,css,js,ts,nodejs,mysql,redis,mongodb,sqlite,postgres,vue,react,django,nginx,spring,git,maven,gradle,docker,linux,github,gitlab,heroku,aws)
 
 ### :mailbox: How to reach me
 
