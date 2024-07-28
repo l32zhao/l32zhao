@@ -6,7 +6,7 @@
 </a>
 
 
-I’m a MEng Computer Engineering student at **University of Waterloo**, specializing in Software Engineering and Distributed Systems. Currently, I am open to a 25 New Grad **Software Engineer position**, and I hope to be a **Back-end Developer** or **Cloud Infrastructure Developer** in the future.
+I’m a MEng Computer Engineering student at **University of Waterloo**, specializing in Software Engineering and Distributed Systems. Now, I am open to a 25 New Grad **Software Engineer position**, and I hope to be a **Back-end Developer** or **Cloud Infrastructure Developer** in the future.
 
 - 🤔 I'm looking for a 2024/2025 Software Engineer full-time job
 - :seedling: I’m learning ![badge_go] ![badge_kubernetes]
