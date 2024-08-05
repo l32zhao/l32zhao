@@ -1,4 +1,4 @@
-# Luchen (Lucian) Zhao
+# Lucian Zhao
 
 
 <a href="https://github.com/l32zhao#gh-dark-mode-only">
